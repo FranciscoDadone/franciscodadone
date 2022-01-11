@@ -28,5 +28,5 @@
 
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscodadone&show_icons=true&locale=en" alt="franciscodadone" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscodadone&show_icons=true&locale=en&layout=compact" alt="franciscodadone" /></p>
+![Francisco Dadone's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscodadone&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscodadone&layout=compact)
