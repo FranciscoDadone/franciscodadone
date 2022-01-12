@@ -20,7 +20,7 @@
 <a href="https://twitter.com/frandadone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frandadone" height="30" width="40" /></a>
 <a href="https://fb.com/francisco.dadone.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francisco.dadone.5" height="30" width="40" /></a>
 <a href="https://instagram.com/franciscodadone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franciscodadone" height="30" width="40" /></a>
-<a href="https://discord.gg/Ddd#7413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ddd#7413" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/237228385858748416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ddd#7413" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
